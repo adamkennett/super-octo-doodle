@@ -1,0 +1,75 @@
+[
+    {
+        "id": "d7a4a7fe-aa91-4696-aa9f-3eb678cd8a3d",
+        "name": "Action"
+    },
+    {
+        "id": "f74e7ac2-799d-4342-9e02-ba6a7001b774",
+        "name": "Adventure"
+    },
+    {
+        "id": "fcc5f041-b246-4938-8fe2-81a0af3f8599",
+        "name": "Comedy"
+    },
+    {
+        "id": "56206661-f08e-4f44-825d-5ebe01d6d840",
+        "name": "Drama"
+    },
+    {
+        "id": "bd0aa7e6-fb88-488b-b91c-072a1e20b412",
+        "name": "Horror"
+    },
+    {
+        "id": "2b58c2d2-e91a-46fd-931b-9dd8f3c48dc9",
+        "name": "Science"
+    },
+    {
+        "id": "59debbcf-80f9-4d7c-b7f4-8005c74833ba",
+        "name": "Romance"
+    },
+    {
+        "id": "64831984-2bcd-4754-81e4-07f83577f7a6",
+        "name": "Western"
+    },
+    {
+        "id": "a599e5b5-a556-4279-ba34-ea6a65a09710",
+        "name": "Animation"
+    },
+    {
+        "id": "581b05af-0caa-4671-bfc5-5c48d50ef333",
+        "name": "Biopic"
+    },
+    {
+        "id": "0219c2fb-3fac-4877-bd94-3cc54680a4fb",
+        "name": "Crime"
+    },
+    {
+        "id": "b917261b-3f37-4930-afab-e67c5386ee05",
+        "name": "Documentary"
+    },
+    {
+        "id": "cf7230b7-f7ab-4c83-8dd9-68763923ab0c",
+        "name": "Fantasy"
+    },
+    {
+        "id": "f5a26f56-2567-446b-b413-995fd257c565",
+        "name": "Historical"
+    },
+    {
+        "id": "558f0fa4-da1e-4d28-bf90-d6cdc60ab0fc",
+        "name": "Musical"
+    },
+    {
+        "id": "7fa9e662-689a-4314-a605-66a9ea2d99d3",
+        "name": "Mystery"
+    },
+    {
+        "id": "b31f4d0a-9d2b-4475-ad0e-c4988b609495",
+        "name": "War"
+    },
+    {
+        "id": "ef2dc0ec-5dca-48b1-95da-4e6a1e7c0264",
+        "name": "Thriller"
+    }
+]
+
